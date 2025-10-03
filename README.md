@@ -4,7 +4,7 @@ A comprehensive React-based job board and HR management system that enables job 
 
 ## 🚀 Live Demo
 
-[Deployed App Link](https://your-deployment-url.com) | [GitHub Repository](https://github.com/your-username/entnt-assignment)
+[Deployed App Link](https://your-deployment-url.com) | [GitHub Repository](https://github.com/Rohan-infinity/testing)
 
 ## 📋 Table of Contents
 
@@ -101,9 +101,6 @@ src/
 ### Available Scripts
 
 - `npm start` - Runs the app in development mode
-- `npm build` - Builds the app for production
-- `npm test` - Launches the test runner
-- `npm eject` - Ejects from Create React App (irreversible)
 
 ## 📁 Project Structure
 
@@ -296,13 +293,6 @@ const {
 
 ## 🤝 Contributing
 
-### Development Guidelines
-1. **Code Style**: Follow ESLint configuration
-2. **Component Structure**: Use functional components with hooks
-3. **State Management**: Use Context API for global state
-4. **Testing**: Write tests for new features
-5. **Documentation**: Update README for significant changes
-
 ### Pull Request Process
 1. Fork the repository
 2. Create a feature branch
@@ -310,19 +300,13 @@ const {
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Team
 
-- **Developer**: [Your Name]
-- **Design**: [Designer Name]
-- **Project Manager**: [PM Name]
+- **Developer**: Rohan Sahu
 
 ## 📞 Support
 
-For support, email [your-email@example.com] or create an issue in the GitHub repository.
+For support, email [awsm.rohan44@gmail.com] or create an issue in the GitHub repository.
 
 ---
 
