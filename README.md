@@ -4,7 +4,7 @@ A comprehensive React-based job board and HR management system that enables job 
 
 ## 🚀 Live Demo
 
-[Deployed App Link](https://your-deployment-url.com) | [GitHub Repository](https://github.com/Rohan-infinity/testing)
+[Deployed App Link](testing-ten-indol.vercel.app) | [GitHub Repository](https://github.com/Rohan-infinity/TalentflowHR)
 
 ## 📋 Table of Contents
 
