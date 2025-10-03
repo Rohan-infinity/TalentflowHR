@@ -272,6 +272,10 @@ const {
 - **Issue**: Some modern features may not work in older browsers
 - **Workaround**: Modern browser requirements
 - **Future Fix**: Add polyfills for broader compatibility
+### 5. UI Zoomed in issue
+- **Issue**: the UI looks zoomed in and does not look good.
+- **Reason**:while the developement of the app, my browser zoom was set to 75% and everything has been designed accordingly hence at normal 100% zoom it looks ugly.
+- **Workaround**: Set your browser zoom to 75%.
 
 ## 🚀 Future Enhancements
 
