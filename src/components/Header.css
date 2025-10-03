@@ -1,0 +1,13 @@
+.header ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    margin: 10px;
+    width: 100%;
+    justify-content: end;
+    align-items: center;
+}
