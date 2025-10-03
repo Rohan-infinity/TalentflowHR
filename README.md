@@ -4,7 +4,7 @@ A comprehensive React-based job board and HR management system that enables job 
 
 ## 🚀 Live Demo
 
-[Deployed App Link](testing-ten-indol.vercel.app) | [GitHub Repository](https://github.com/Rohan-infinity/TalentflowHR) 
+[Deployed App Link](talentflow-hr.vercel.app) | [GitHub Repository](https://github.com/Rohan-infinity/TalentflowHR) 
 
 **Please view the page with browser zoom set to 75%**
 
@@ -155,7 +155,7 @@ src/
 
 ### 2. Candidate Management
 - **1000 Seeded Candidates**: Realistic data with varied experience
-- **Pagination**: 35 candidates per page
+- **Pagination**: 50 candidates per page
 - **Status Tracking**: Applied → Under Review → Hired
 - **Assessment Integration**: 50% completion rate with scoring
 
