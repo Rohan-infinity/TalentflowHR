@@ -101,9 +101,6 @@ src/
 ### Available Scripts
 
 - `npm start` - Runs the app in development mode
-- `npm build` - Builds the app for production
-- `npm test` - Launches the test runner
-- `npm eject` - Ejects from Create React App (irreversible)
 
 ## 📁 Project Structure
 
@@ -171,6 +168,9 @@ src/
 - **Cross-interface Updates**: Changes sync between HR and job seeker views
 - **Polling Mechanism**: 7-8 second intervals for live updates
 - **localStorage Persistence**: Data persists across browser sessions
+
+### 5.View Real-Time stats
+**See the Real-time States** in the hr context 
 
 ## 🔄 State Management
 
@@ -274,6 +274,8 @@ const {
 - **Workaround**: Modern browser requirements
 - **Future Fix**: Add polyfills for broader compatibility
 
+
+
 ## 🚀 Future Enhancements
 
 ### Short Term
@@ -310,19 +312,14 @@ const {
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Team
 
-- **Developer**: [Your Name]
-- **Design**: [Designer Name]
-- **Project Manager**: [PM Name]
+- **Developer**: [Rohan Sahu]
 
 ## 📞 Support
 
-For support, email [your-email@example.com] or create an issue in the GitHub repository.
+For support, email [awsm.rohan44@gmail.com] or create an issue in the GitHub repository.
 
 ---
 

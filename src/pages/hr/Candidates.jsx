@@ -24,7 +24,7 @@ const Candidates = () => {
   
   // Pagination state
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage] = useState(35);
+  const [itemsPerPage] = useState(50);
 
   // Load assessment responses from localStorage
   useEffect(() => {
