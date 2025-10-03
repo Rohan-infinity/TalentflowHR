@@ -4,7 +4,7 @@ A comprehensive React-based job board and HR management system that enables job 
 
 ## 🚀 Live Demo
 
-[Deployed App Link](https://your-deployment-url.com) | [GitHub Repository](https://github.com/your-username/entnt-assignment)
+[Deployed App Link](https://your-deployment-url.com) | [GitHub Repository](https://github.com/Rohan-infinity/testing)
 
 ## 📋 Table of Contents
 
@@ -169,9 +169,6 @@ src/
 - **Polling Mechanism**: 7-8 second intervals for live updates
 - **localStorage Persistence**: Data persists across browser sessions
 
-### 5.View Real-Time stats
-**See the Real-time States** in the hr context 
-
 ## 🔄 State Management
 
 ### HRContext
@@ -274,8 +271,6 @@ const {
 - **Workaround**: Modern browser requirements
 - **Future Fix**: Add polyfills for broader compatibility
 
-
-
 ## 🚀 Future Enhancements
 
 ### Short Term
@@ -298,13 +293,6 @@ const {
 
 ## 🤝 Contributing
 
-### Development Guidelines
-1. **Code Style**: Follow ESLint configuration
-2. **Component Structure**: Use functional components with hooks
-3. **State Management**: Use Context API for global state
-4. **Testing**: Write tests for new features
-5. **Documentation**: Update README for significant changes
-
 ### Pull Request Process
 1. Fork the repository
 2. Create a feature branch
@@ -312,10 +300,9 @@ const {
 4. Add tests if applicable
 5. Submit a pull request
 
-
 ## 👥 Team
 
-- **Developer**: [Rohan Sahu]
+- **Developer**: Rohan Sahu
 
 ## 📞 Support
 
